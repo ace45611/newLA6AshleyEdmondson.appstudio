@@ -1,0 +1,146 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblHamburger.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "inptName2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "selWeekDay.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "optYesNo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Signature1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "btnClear.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "hmbrMenuOptions.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblVisitInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblWeekDay.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblRadioButton.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblSelectOption.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "lblSignatureBox.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "newControls",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
